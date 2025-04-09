@@ -8,3 +8,4 @@ Funktionalitet:
 Projektet i sidste ende - jeg stod for design af 3D-print i CAD-software, samt implementering af kredsløb (som dog var en fælles indsats af gruppen):
 ![487757683_1483293399306072_969653230632725275_n](https://github.com/user-attachments/assets/6fe0a5b8-1e7f-4182-b7e5-0f6cc03b4f37)
 ![487468799_638294185767774_6345072392564367234_n](https://github.com/user-attachments/assets/75e9eca6-7b35-45a8-9bbc-ebf4014d2d67)
+![487883858_1580164912647600_4125169835379546696_n](https://github.com/user-attachments/assets/39a63255-aca4-48ae-b8ef-2702f37497f3)
