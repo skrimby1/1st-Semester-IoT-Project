@@ -6,3 +6,5 @@ Funktionalitet:
 * 🍺 Ved hjælp af en gas-sensor som måler ethanol-indhold via ADC, vil den anmode om en alkometer prøve hvis brugeren forsøger at oplåse sin cykel indenfor specifikke tidsrammer. På baggrund af resultatet af prøven, vil cyklen forblive låst hvis målingen er for høj, eller låse op for cyklen hvis promillen er under en fastsat værdi. Samtidig vil den afspille en lyd samt vise på display
 
 Projektet i sidste ende - jeg stod for design af 3D-print i CAD-software, samt implementering af kredsløb (som dog var en fælles indsats af gruppen):
+![487757683_1483293399306072_969653230632725275_n](https://github.com/user-attachments/assets/6fe0a5b8-1e7f-4182-b7e5-0f6cc03b4f37)
+![487468799_638294185767774_6345072392564367234_n](https://github.com/user-attachments/assets/75e9eca6-7b35-45a8-9bbc-ebf4014d2d67)
