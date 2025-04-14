@@ -1,5 +1,5 @@
 # Afsluttende projekt for 1.semester som IT-Teknolog
-Alkometer + Vejrbesked funktionalitet blev udviklet primært personligt af mig under min gruppes 1. semester projekt, dog i samråd af min gruppe. Ved brug af MicroPython, MQ3 gas-sensor, ADC, GPS, I2C, LCD-display samt ESP32. Projektet havde også en masse andre funktionaliteter, som blev udviklet af min gruppe - som f.eks. at den kunne detecte om cyklen befandt sig i en high-risk zone
+Alkometer + Vejrbesked funktionalitet blev udviklet primært personligt af mig under min gruppes 1. semester projekt, dog i samråd af min gruppe. Ved brug af MicroPython, MQ3 gas-sensor, ADC, GPS, I2C, LCD-display samt ESP32. Projektet havde også en masse andre funktionaliteter, som blev udviklet af min gruppe - som f.eks. at den kunne detecte om cyklen befandt sig i en high-risk zone. Samtidig havde vi opsat en server, hvor via MQTT blev sendt data til et dashboard som så visualiserede dataen.
 
 Funktionalitet:
 * 🌦️ Laver API-kald for vejret i København på nuværende tidspunkt og 10 timer frem. Når cyklen modtager en besked fra vores anden ESP via ESP-NOW om at cyklen er aflåset,  viser den på et display om der kommer frostvejr, hedeslag eller regn. Her bedes brugeren om at parkere ansvarligt.
