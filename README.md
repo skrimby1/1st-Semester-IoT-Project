@@ -5,7 +5,7 @@ Funktionalitet:
 * 🌦️ Laver API-kald for vejret i København på nuværende tidspunkt og 10 timer frem. Når cyklen modtager en besked fra vores anden ESP via ESP-NOW om at cyklen er aflåset,  viser den på et display om der kommer frostvejr, hedeslag eller regn. Her bedes brugeren om at parkere ansvarligt.
 * 🍺 Ved hjælp af en gas-sensor som måler ethanol-indhold via ADC, vil den anmode om en alkometer prøve hvis brugeren forsøger at oplåse sin cykel indenfor specifikke tidsrammer. På baggrund af resultatet af prøven, vil ESP'en sende en besked via ESP-NOW til låse-boksen at cyklen skal forblive låst hvis målingen er for høj, eller låse op for cyklen hvis promillen er under en fastsat værdi. Samtidig vil den afspille en lyd samt vise på display
 
-# ENGLISH
+# ENGLISH - 1st Semester exam project
 The breathalyzer + weather notification functionality was developed primarily by me during my group’s 1st-semester project, although in consultation with my group. The project used MicroPython, an MQ3 gas sensor, ADC, GPS, I2C, LCD display, and ESP32. The project also included many other functionalities developed by my group-for example, detecting whether the bike was in a high-risk zone. Additionally, we set up a server where data was sent via MQTT to a dashboard that visualized the information.
 
 Functionality:
